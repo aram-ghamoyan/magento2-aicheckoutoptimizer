@@ -1,2 +1,1 @@
-# magento2-aicheckoutoptimizer
-AI Checkout Optimizer
+# <p align=center>aram-ghamoyan/magento2-imageissuedetector</p>
