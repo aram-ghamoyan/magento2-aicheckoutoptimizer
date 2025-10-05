@@ -1,1 +1,1 @@
-# <p align=center>aram-ghamoyan/magento2-imageissuedetector</p>
+# <p align=center>aram-ghamoyan/magento2-aicheckoutoptimizer</p>
